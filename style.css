@@ -1,0 +1,44 @@
+header,
+section{
+    margin-bottom: 130px;
+}
+.explore{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    border-radius: 10px;
+    border: none;
+}
+.rating-box{
+    background: #FFFFFF;
+    box-shadow: 0px 7px 50px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    width: 200px;
+    padding: 10px 0 0 10px;
+}
+.tea-img{
+    width: 135px;
+    height: 200px;
+}
+.tea-back{
+    background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0.5) 100%);
+    border-radius: 10px;
+}
+.text-tea-dark{
+    color: #777777;
+}
+
+.flex-grid-1a{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    opacity: 0.1;
+    padding: 100px 20px;
+}
+.flex-grid-1b{
+    background: rgba(230, 166, 35, 0.1);
+
+}
+.flex-grid-2a{
+    background: rgba(87, 118, 57, 0.1);
+}
+.flex-grid-2b{
+    background: linear-gradient(90deg, #D9D9D9 0%, rgba(255, 255, 255, 0) 100%);
+    padding: 100px 20px;
+}
