@@ -42,3 +42,12 @@ section{
     background: linear-gradient(90deg, #D9D9D9 0%, rgba(255, 255, 255, 0) 100%);
     padding: 100px 20px;
 }
+.super-gradient{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+}
+.btn-show{
+    background-color: #F4F4F4 ;
+    color: #FF0000;
+    padding: 10px;
+    border: none;
+}
